@@ -5,4 +5,4 @@ Using vectors and polor coordinates, we can connect the coordinates of the facto
 product. For each iteration, increase the factor by 0.01. Through this, we can visualize
 the heart of Mathematics. 
 
-<img src="https://giphy.com/gifs/JmD6iF7dmRhgd89Ef7/html5f">
+<img src="https://github.com/ElvinT57/Cardioid-Visualization/blob/master/cardioidV.gif">
