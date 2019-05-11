@@ -1,6 +1,7 @@
-float total = 200;  //number of points to divide the circle
+float total = 300;  //number of points to divide the circle
 float factor = 0;  //start at the factor of 0.001 and increment 0.01
 float r;    //radius of the cardioid
+float rgb[] = {random(255), random(255), random(255)};
 
 void setup() {
   size(800, 800);
@@ -13,20 +14,21 @@ void draw() {
   text("Factor: " + factor, 160, height - 170);
   //translate to the center
   translate(width/2, height/2);
-  //draw circle
-  stroke(0);
-  noFill();
-  ellipse(0, 0, r*2, r*2);
 
   for (int i = 0; i < total; i++) {
     //draw line between the two vector
     PVector a = getVector(float(i));
     PVector b = getVector(i * factor);
-    mapColors(a.mag());
     line(a.x, a.y, b.x, b.y);
+    mapColors(b.mag());
   }
   //increment the factor
-  factor += 0.01;
+  factor += map(mouseX, 0, width, -0.1, 0.1);
+  //draw circle
+  stroke(0);
+  strokeWeight(5);
+  noFill();
+  ellipse(0, 0, r*2, r*2);
 }
 
 PVector getVector(float i) {
@@ -36,8 +38,9 @@ PVector getVector(float i) {
 
 //Map the colors using the magnitude of the vectors and current factor
 void mapColors(float mag) {
-  float r = map(factor * 20, 0, 200, 255, 0); 
-  float g = map(factor * 60, 0, 360, 0, 255); 
-  float b = map(mag, 0, 360, 0, 255); 
-  stroke(r, g, b);
+  rgb[0] = map(factor * 20, 0, 255, 50, 25); 
+  rgb[1] = map(factor * 60, 0, 360, 0, 0); 
+  rgb[2] = map(mag, 0, 360, 0, 255); 
+  strokeWeight(1);
+  stroke(rgb[0], rgb[1], rgb[2]);
 }
