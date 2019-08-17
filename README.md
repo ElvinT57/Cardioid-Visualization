@@ -11,15 +11,15 @@ the heart of Mathematics.
 <h2>Gallery</h2>
 <h4>Factor: 44</h4>
 <img src="https://github.com/ElvinT57/Cardioid-Visualization/blob/master/screenshots/screenshot-002770.png">
-<h4></h4>
-<img src="">
-<h4></h4>
-<img src="">
-<h4></h4>
-<img src="">
-<h4></h4>
-<img src="">
-<h4></h4>
-<img src="">
-<h4></h4>
-<img src="">
+<h4>Factor: 103</h4>
+<img src="https://github.com/ElvinT57/Cardioid-Visualization/blob/master/screenshots/screenshot-008771.png">
+<h4>Factor: 149 (Grid)</h4>
+<img src="https://github.com/ElvinT57/Cardioid-Visualization/blob/master/screenshots/screenshot-016049.png">
+<h4>Factor: 302 (Cardioid restarts)</h4>
+<img src="https://github.com/ElvinT57/Cardioid-Visualization/blob/master/screenshots/screenshot-021476.png">
+<h4>Factor: 170</h4>
+<img src="https://github.com/ElvinT57/Cardioid-Visualization/blob/master/screenshots/screenshot-027326.png">
+<h4>Factor: -23</h4>
+<img src="https://github.com/ElvinT57/Cardioid-Visualization/blob/master/screenshots/screenshot-033585.png">
+<h4>Real Life Cardioid</h4>
+<img src="https://github.com/ElvinT57/Cardioid-Visualization/blob/master/screenshots/real-life-cardioid.jpg">
