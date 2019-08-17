@@ -8,7 +8,7 @@ the heart of Mathematics.
 <img src="https://github.com/ElvinT57/Cardioid-Visualization/blob/master/cardioidV.gif">
 <br>
 <br>
-<h2>Gallery</h2>
+<h1>Gallery</h1>
 <h4>Factor: 44</h4>
 <img src="https://github.com/ElvinT57/Cardioid-Visualization/blob/master/screenshots/screenshot-002770.png">
 <h4>Factor: 103</h4>
