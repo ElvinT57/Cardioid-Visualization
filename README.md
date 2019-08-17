@@ -6,3 +6,20 @@ product. For each iteration, increase the factor by 0.01. Through this, we can v
 the heart of Mathematics. 
 
 <img src="https://github.com/ElvinT57/Cardioid-Visualization/blob/master/cardioidV.gif">
+<br>
+<br>
+<h2>Gallery</h2>
+<h4>Factor: 44</h4>
+<img src="https://github.com/ElvinT57/Cardioid-Visualization/blob/master/screenshots/screenshot-002770.png">
+<h4></h4>
+<img src="">
+<h4></h4>
+<img src="">
+<h4></h4>
+<img src="">
+<h4></h4>
+<img src="">
+<h4></h4>
+<img src="">
+<h4></h4>
+<img src="">
