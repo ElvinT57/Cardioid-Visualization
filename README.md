@@ -21,5 +21,5 @@ the heart of Mathematics.
 <img src="https://github.com/ElvinT57/Cardioid-Visualization/blob/master/screenshots/screenshot-027326.png">
 <h3>Factor: -23</h3>
 <img src="https://github.com/ElvinT57/Cardioid-Visualization/blob/master/screenshots/screenshot-033585.png">
-<h3>Real Life Cardioid</h3>
+<h3>Cardioid in Nature</h3>
 <img width="800px" src="https://github.com/ElvinT57/Cardioid-Visualization/blob/master/screenshots/real-life-cardioid.jpg">
